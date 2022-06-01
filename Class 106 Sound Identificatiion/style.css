@@ -1,0 +1,24 @@
+.Header{
+    font-family: 'Blaka Hollow', cursive;
+    font-size: x-large;
+}
+#lol{
+    color:indigo;
+    background-color:gold;
+}
+body{
+    background-color:indigo;
+    color:white;
+}
+#lol2{
+    font-size:larger;
+}
+.Footer{
+    position:fixed;
+    bottom:0;
+    text-align:center;
+    width: 100%;
+    background-color:wheat;
+    color:rgb(4, 0, 252);
+    line-height:300px;
+}
